@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url("./../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf");
+
+}
+
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url("./../fonts/OpenSans-VariableFont_wdth,wght.ttf");
+}

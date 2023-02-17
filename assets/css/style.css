@@ -1,0 +1,14 @@
+/* BOOT */
+@import url("./quiz/boot.css");
+
+/* FONTS */
+@import url("./quiz/fonts.css");
+
+/* INFORMAÇÔES */
+@import url("./quiz/informacoes.css");
+
+/* QUIZ */
+@import url("./quiz/quiz.css");
+@import url("./quiz/header.css");
+@import url("./quiz/resultado.css");
+@import url("./quiz/formula.css");
